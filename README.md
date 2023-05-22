@@ -1,2 +1,1 @@
 # exercism-rust
-# exercism-rust
